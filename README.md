@@ -14,13 +14,21 @@ A simple Python code that extracts hidden folders and files based on a file cons
 Give the file permission 
 <br >
 <br >
-`sudo chmod +x dirfinder.py`
+
+```
+sudo chmod +x dirfinder.py
+```
+
 <br >
 <br >
 And open python file :
 <br >
 <br >
-`./dirfinder.py`
+
+```
+./dirfinder.py
+```
+
 <br >
 <br >
 :mag_right: First : You can Enter ip or Domain name ( with or withot http:// )
@@ -33,6 +41,7 @@ And open python file :
 <br >
 <br >
 <br >
+
 ![Screenshot](https://github.com/rxx2m/DirFinder/blob/main/DirFinder.png)
 
 
