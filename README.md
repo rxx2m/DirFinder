@@ -2,7 +2,10 @@
 A simple Python code that extracts hidden folders and files based on a file consisting of words (txt) used for brute force on websites.<br >
 كود بسيط بلغة البايثون يستخرج المجلدات والملفات المخفية بناء على ملف نصي مكون من كلمات تستخدم للقوة الغاشمة على المواقع
 # :space_invader: How To Use ?
-you must have Python 3<br >
+
+> [!IMPORTANT]
+> you must have Python 3
+
 <br >
 <br >
 :clubs:Downloads files (dirfinder.py + wordlists.txt)
